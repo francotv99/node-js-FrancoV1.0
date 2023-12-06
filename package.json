@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Un curso de Nodejs",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "inicio",
+    "curso",
+    "esp"
+  ],
+  "author": "Franco Torres",
+  "license": "ISC"
+}
